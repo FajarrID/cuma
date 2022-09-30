@@ -87,6 +87,6 @@ let user = global.db.data.users[m.sender]
 handler.help = ['ngechit'].map(v => v + ' *hehe..*')
 handler.tags = ['xp']
 handler.command = /^(ngech(ea|i)t|c(((he(ater|t)|iter)|(hea|i)t)|hit))$/i
-handler.private = true
+handler.owner = true
 
 export default handler
