@@ -384,11 +384,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/notifikasi_pemberitahuan'
-global.sgh = 'https://www.github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI'
-global.sdc = 'https://www.discord.com/wudysoft'
-global.snh = 'https://www.tiktok.com/@upload_file'
+global.sig = 'https://www.instagram.com/admin_kyouka'
+global.sgh = 'https://www.github.com/Yuri-Neko'
+global.sgc = 'https://chat.whatsapp.com/KNe0JtgrewI55Hkdp79M2q'
+global.sdc = 'https://www.discord.com/'
+global.snh = 'https://www.tiktok.com/@hiro_0163'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://www.youtube.com/'
 
@@ -431,9 +431,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ 𝗛𝗶𝗻𝗮𝘁𝗮`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁'
+global.author = '𝗛𝗶𝗻𝗮𝘁𝗮'
 global.multiplier = 10
 
 /*Pesan*/
