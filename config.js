@@ -440,12 +440,12 @@ global.multiplier = 10
 global.eror = '*ᴇʀᴏʀʀ!*'
 global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
-global.webs = 'https://s.id/Cerdasin62'
+global.webs = 'https://shiori-hashiba.vercel.app/'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
+global.gcwangsaf = 'https://chat.whatsapp.com/KNe0JtgrewI55Hkdp79M2q'
 
 /*Donasi*/
-global.saweria = 'Https://saweria.co/Yuri-Neko'
+global.saweria = 'Https://saweria.co/YuriNeko'
 global.dana = '083825121214'
 global.pulsa = '083825121214'
 global.trakteer = 'https://trakteer.id/wudysoft'
@@ -456,7 +456,7 @@ global.povo = '083825121214'
 global.pgopay = '083825121214'
 global.ppulsa = '083825121214'
 global.ppulsa2 = '083825121214'
-global.psaweria = 'https://saweria.com/Yuri-Neko'
+global.psaweria = 'https://saweria.com/YuriNeko'
 
 /*Emoji*/
 global.rpg = {
